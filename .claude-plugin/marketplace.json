@@ -1,7 +1,10 @@
 {
   "name": "saurav-aiml-skills",
   "description": "Custom skills for coding workflows",
-  "owner": "Saurav-Bayone",
+  "owner": {
+    "name": "Saurav-Bayone",
+    "url": "https://github.com/Saurav-Bayone"
+  },
   "version": "1.0.0",
   "plugins": [
     {
