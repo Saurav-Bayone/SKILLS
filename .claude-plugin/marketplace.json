@@ -1,0 +1,22 @@
+{
+  "name": "Saurav's AI/ML Skills",
+  "description": "Custom skills for coding workflows",
+  "author": "Saurav-Bayone",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "id": "skill-1",
+      "name": "django-codebase-analyzer",
+      "description": "Document the whole codebase or selected app in the codebase. Also provide suggestions and audit for improvements.",
+      "version": "1.0.0",
+      "path": "/django-codebase-analyzer"
+    },
+    {
+      "id": "skill-2", 
+      "name": "django-skill",
+      "description": "Standardized Coding workflow for Issues on Github.",
+      "version": "1.0.0",
+      "path": "/django-skill"
+    }
+  ]
+}
