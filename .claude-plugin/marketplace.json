@@ -18,6 +18,12 @@
       "description": "Standardized Coding workflow for Issues on Github.",
       "version": "1.0.0",
       "source": "./django-skill"
+    },
+    {
+      "name": "django-team-standards",
+      "description": "Comprehensive Django implementation workflow with 7 phases: documentation validation, issue discovery, detailed planning with approval, standards enforcement, comprehensive testing, validation checklist, and documentation. Creates detailed plans before coding, enforces proper testing (not superficial), and maintains team consistency across all Django issues.",
+      "version": "1.0.0",
+      "source": "./django-team-standards"
     }
   ]
 }
