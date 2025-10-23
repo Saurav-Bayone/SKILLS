@@ -11,13 +11,13 @@
       "name": "django-codebase-analyzer",
       "description": "Document the whole codebase or selected app in the codebase. Also provide suggestions and audit for improvements.",
       "version": "1.0.0",
-      "source": "./django-codebase-analyzer"
+      "source": "../django-codebase-analyzer"
     },
     {
       "name": "django-skill",
       "description": "Standardized Coding workflow for Issues on Github.",
       "version": "1.0.0",
-      "source": "./django-skill"
+      "source": "../django-skill"
     }
   ]
 }
