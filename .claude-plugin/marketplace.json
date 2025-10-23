@@ -8,22 +8,15 @@
   "version": "1.0.0",
   "plugins": [
     {
-      "name": "django-codebase-analyzer",
-      "description": "Document the whole codebase or selected app in the codebase. Also provide suggestions and audit for improvements.",
-      "version": "1.0.0",
-      "source": "./django-codebase-analyzer"
-    },
-    {
-      "name": "django-skill",
-      "description": "Standardized Coding workflow for Issues on Github.",
-      "version": "1.0.0",
-      "source": "./django-skill"
-    },
-    {
-      "name": "django-team-standards",
-      "description": "Comprehensive Django implementation workflow with 7 phases: documentation validation, issue discovery, detailed planning with approval, standards enforcement, comprehensive testing, validation checklist, and documentation. Creates detailed plans before coding, enforces proper testing (not superficial), and maintains team consistency across all Django issues.",
-      "version": "1.0.0",
-      "source": "./django-team-standards"
+      "name": "saurav-django-skills",
+      "description": "Collection of Django development skills including codebase analysis, issue automation, and team standards enforcement",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./django-codebase-analyzer",
+        "./django-skill",
+        "./django-team-standards"
+      ]
     }
   ]
 }
